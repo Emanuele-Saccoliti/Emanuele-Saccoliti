@@ -12,7 +12,7 @@ Hi there, I’m @Emanuele-Saccoliti!
 - Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Scipy, QuantLib, XGBoost, Finance Toolbox, Optimization Toolbox
 
 
-# 📁 What You will Find Here
+# 📁 What You'll Find Here
 Projects on
 - Quantitative Finance
 - Machine Learning Applications
