@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi there, I’m @Emanuele-Saccoliti!
+Hi there, I’m Emanuele Saccoliti!
 - I'm a financial mathematics graduate with a strong quantitative focus on advanced financial modelling integrating market data and stochastic components. 
 - My areas of interest are volatility modelling, especially stochastic rough volatility, and dynamic portfolio optimization.
 - Recently I also started to explore the intersection of reinforcement and deep learning methodologies applied to financial modelling and optimization.
