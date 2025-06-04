@@ -16,7 +16,7 @@ Hi there, I’m Emanuele Saccoliti!
 Projects on
 - Quantitative Finance
 - Machine Learning Applications
-
+- GenAI applications
 
 <!---
 Emanuele-Saccoliti/Emanuele-Saccoliti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
