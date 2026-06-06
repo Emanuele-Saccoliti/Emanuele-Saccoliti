@@ -9,7 +9,7 @@ Hi there, I’m Emanuele Saccoliti!
 
 # 🛠️ Technical Skills
 - Languages: Python, JAVA, VBA, SQL, LaTeX, LLMs, OOP
-- Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Scipy, QuantLib, XGBoost, JAX, TensorFlow, Pytorch
+- Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, Scipy, QuantLib, XGBoost, JAX, Pytorch, LangChain
 
 
 # 📁 What You'll Find Here
