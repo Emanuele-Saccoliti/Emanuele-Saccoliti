@@ -1,7 +1,7 @@
 # 👋 About Me
 Hi there, I’m Emanuele Saccoliti!
 
-I am a quantitative researcher with a background in financial mathematics, focused on systematic and data-driven approaches to financial modelling, forecasting, portfolio optimization, and trading research.
+I am a indipendent researcher with a background in financial mathematics, focused on systematic and data-driven approaches to financial modelling, forecasting, portfolio optimization, and trading research.
 
 This GitHub is serves as a workspace where I collect and develop the research ideas I work on daily: from signal extraction and volatility modelling to Bayesian allocation, machine learning experiments, backtesting frameworks, and AI-assisted quant research tools.
 
