@@ -12,6 +12,7 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 - Bayesian inference and Probabilistic modelling
 - Operator learning and Approximation theory
 - Geometric representation learning and Manifold methods
+- Differential geometry and Stochastic analysis on manifolds
 - Deep learning and Generative modelling for financial time series
 
 
