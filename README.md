@@ -9,10 +9,10 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 
 
 ### Interests:
-- Volatility modelling and rough volatility
 - Bayesian inference and probabilistic modelling
-- Reinforcement learning and stochastic control
-- Deep learning for financial time series
+- Operator learning and Approximation theory
+- Geometric representation learning and manifold methods
+- Deep learning & Generative modelling for financial time series
 
 
 
