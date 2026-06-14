@@ -17,12 +17,6 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 
 
 
-# 🛠️ Technical Skills
-- Languages: Python, JAVA, VBA, C++, JAVA, SQL
-- Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, QuantLib, JAX, Pytorch, LangChain
-- AI/GenAI: LLM, RAG, Prompt engineering, Agentic workflows, Retrieval-based research pipelines
-
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -60,42 +54,14 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuele-saccoliti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuele-saccoliti&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-</div>
 
-<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emanuele-saccoliti&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://github.com/emanuele-saccoliti)
 
 </div>
+
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=emanuele-saccoliti&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuele-saccoliti)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>⚡ Last updated · June 2026</sub>
-
-</div>
 
 
 <!---
