@@ -8,7 +8,7 @@ Hi there, I’m Emanuele Saccoliti!
   
 
 # 🛠️ Technical Skills
-- Programming: Python, JAVA, VBA, C++, JAVA, SQL, LaTeX, LLMs, OOP, Debugging, API integration
+- Languages: Python, JAVA, VBA, C++, JAVA, SQL
 - Libraries: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy, QuantLib, JAX, Pytorch, LangChain
 - AI/GenAI: LLM, RAG, Prompt engineering, Agentic workflows, Retrieval-based research pipelines
 
