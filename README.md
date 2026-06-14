@@ -9,10 +9,10 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 
 
 ### Interests:
-- Bayesian inference and probabilistic modelling
+- Bayesian inference and Probabilistic modelling
 - Operator learning and Approximation theory
-- Geometric representation learning and manifold methods
-- Deep learning & Generative modelling for financial time series
+- Geometric representation learning and Manifold methods
+- Deep learning and Generative modelling for financial time series
 
 
 
