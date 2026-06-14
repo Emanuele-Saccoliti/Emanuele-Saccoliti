@@ -25,8 +25,6 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,11 +84,8 @@ My goal is to turn mathematical models and research hypotheses into clean, repro
 
 <div align="center">
 
-I'm open to **collaborations**, **ML project discussions**, and **connecting with fellow engineers**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuele-saccoliti)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saccolitiemanuele@gmail.com)
-[![LeetCode](https://img.shields.io/badge/Solve%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/superlele)
 
 </div>
 
