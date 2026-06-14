@@ -8,7 +8,7 @@ This GitHub is serves as a workspace where I collect and develop the research id
 My goal is to turn mathematical models and research hypotheses into clean, reproducible code that can be tested, challenged, improved, and eventually used in real trading enviroments.
 
 
-Interests:
+### Interests:
 - Volatility modelling and rough volatility
 - Bayesian inference and probabilistic modelling
 - Reinforcement learning and stochastic control
