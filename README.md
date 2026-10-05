@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi there, I’m Emanuele Saccoliti!
+Hi there, I’m Emanuele!
 
 I am a quantitative analyst with a background in financial mathematics, focused on systematic and data-driven approaches to financial modelling, forecasting, portfolio management and market research.
 
